@@ -54,6 +54,10 @@ Se conecta al juego y se observa que funciono
 
 <img width="1302" height="905" alt="image" src="https://github.com/user-attachments/assets/a06cc6a8-a204-4200-a29e-020367929dc3" />
 
+Video 
+https://github.com/user-attachments/assets/11626fde-f12c-4316-a4bc-dc86add412b7
+
+
 
 
 
