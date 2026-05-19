@@ -34,6 +34,29 @@ Revisar los Pods en tiempo real
 <img width="486" height="82" alt="image" src="https://github.com/user-attachments/assets/2086fcde-0956-457f-b01c-0839839e8cc0" />
 
 # ¿Cómo saber si funcionó?
+<img width="601" height="97" alt="image" src="https://github.com/user-attachments/assets/8cee5ffd-f3a9-466b-8385-c01138919230" />
+
+
+# Paso para entrar al juego 
+
+Paso 1: Entrar al menú de servidores en el juego
+
+<img width="992" height="845" alt="image" src="https://github.com/user-attachments/assets/56b62377-58a6-4b94-a56f-bd91e6a99b96" />
+
+Paso 2: Conseguir la IP y el Puerto desde tu terminal
+
+<img width="601" height="97" alt="image" src="https://github.com/user-attachments/assets/f18931e7-4df0-424d-9251-0c6156f3979f" />
+
+Paso 3: Conectarte en SuperTuxKart
+  <img width="852" height="602" alt="image" src="https://github.com/user-attachments/assets/67198bda-225b-42b0-a0c5-e0dd1ee0096b" />
+
+Se conecta al juego y se observa que funciono
+
+<img width="1302" height="905" alt="image" src="https://github.com/user-attachments/assets/a06cc6a8-a204-4200-a29e-020367929dc3" />
+
+
+
+
 
 
 
